@@ -1,0 +1,56 @@
+
+/* entete */
+
+.containeur_services{
+	display: block;
+	height: 889px;
+	background-color: #000000;
+	border: 1px solid red;
+}
+
+.entete{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 0 113px 0 113px;
+	border: 1px solid black;
+}
+
+.logo{
+	margin-top: 52px;
+	width: 265px;
+	height: 44px;
+	background-image: url("../photos/PULSE_factory.png");
+}
+
+.fleche{
+	margin-top: 52px;
+	width: 36px;
+	height: 24px;
+	background-image: url("../photos/Group 2449.png");
+}
+
+/* Description Services */
+
+.body_service{
+	display: block;
+	flex-wrap: wrap;
+	border: 1px solid black;
+}
+
+.titre{
+	color: #FFFFFF;
+	font-size: 56px;
+	margin: 238px 113px 0 113px;
+	border: 1px solid black;
+}
+
+.description_service{
+	color: #FFFFFF;
+	margin: 0 113px 0 113px;
+	border: 1px solid black;
+}
+
+
+  
+/* Fin entete */

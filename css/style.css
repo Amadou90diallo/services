@@ -1,0 +1,135 @@
+body{
+	display: block;
+	flex-wrap: wrap;
+}
+
+
+
+/* *********************************************************************************** */
+
+
+/* Fin Description Services */
+
+/* *********************************************************************************** */
+
+/* Recherche de talents */
+
+#id_recherche_talent{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 0 113px 0 113px;
+}
+
+.titre_recherche_telents{
+	margin-top: 72px;
+	font-size: 56px;
+}
+
+.description_recherche_telents{
+	font-size: 22px;
+	margin-top: 60px;
+}
+
+/* Categorie talent */
+
+.des_pho{
+	display: flex;
+	justify-content: center;
+}
+
+.categorie_talent{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin-top: 60px;
+}
+
+.photos_1{
+	width: 303;
+	height: 317;
+}
+
+/* Categorie talent */
+
+
+/* Fin recherche de talents */
+
+/* Composition d'equipe */
+
+.container_compo_equipe{
+	display: block;
+	flex-wrap: wrap;
+	margin: 0 113px 0 113px;
+	background-color: #FF0000;
+}
+
+.cercles{
+	width: 75px;
+	height: 85px;
+	border-radius: 50px;
+	background: green;
+}
+
+.groupe_cercle{
+	height: 460px;
+}
+
+.cercle_1{
+	margin: 130px 450px 0 450px ;
+}
+
+.cercle_2{
+	margin: 30px 450px 0 270px ;
+}
+
+.cercle_3{
+	margin: 30px 450px 80px 450px ;
+}
+
+.cercle_4{
+	margin: -270px 450px 0 620px ;
+}
+
+/* debut ligne */
+	
+	.ligne{
+		width: 200px;
+		height: 1px;
+		background-color: #FFFFFF;
+	}
+
+/* fin ligne */
+
+/* Fon composition d'equipe */
+
+/* Debut mise à disposition personnel */
+
+.description_personnel{
+	margin-top: 60px;
+	display: block;
+	flex-wrap: wrap;
+}
+
+.mise_a_disposition_personnel_2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+
+.mise_a_disposition_personnel_1{
+	margin-top: 60px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.titre_disposition_du_personnel{
+	font-size: 56px;
+}
+
+
+
+/* Fin mise à disposition personnel */
+
+
